@@ -43,7 +43,7 @@ public class lab2 {
             }
             System.out.println();
         }
-        // New part of code
+        // New part of code (test)
         final int aRowNumber = A.length;
         final int aColumnNumber = A[0].length;
         final int cRowNumber = aRowNumber;
